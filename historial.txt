@@ -1,0 +1,21 @@
+    1  4
+    2  vagrant ssh
+    3  ls
+    4  whoami
+    5  pwd
+    6  man
+    7  man man
+    8  man ls
+    9  ls -l
+   10  cat README
+   11  cat
+   12  cd repogit
+   13  ls
+   14  clean
+   15  ls
+   16  git clone git@github.com:LucianaRadimak/radimak_vagrant.git
+   17  ls
+   18  cd radimak_vagrant/
+   19  ls
+   20  history
+   21  history > historial.txt
